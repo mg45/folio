@@ -141,6 +141,7 @@ section:nth-of-type(2) h1 {
   text-transform: uppercase;
   font-size: 10rem;
   font-weight: 400;
+  padding-top: 5rem;
   color: #282b29;
 }
 
@@ -166,10 +167,7 @@ table > tbody > tr > td:nth-child(even) {
   padding: 2rem 0 2rem 0;
   font-weight: bolder;
 }
-
-table > tbody > tr > td:nth-child(odd) {
-  font-size: 0.6rem;
-}
+ 
 
 table > tbody > tr > td:nth-child(3) {
   text-align: right;
@@ -220,6 +218,7 @@ section:nth-of-type(3) h1 {
   text-transform: uppercase;
   font-size: 10rem;
   font-weight: 400;
+  padding-top: 5rem;
   color: #7d2222;
 }
 
@@ -317,6 +316,7 @@ section:last-of-type h1 {
   margin: 0 0;
   text-transform: uppercase;
   font-size: 10rem;
+  padding-top: 5rem;
   font-weight: 400;
 }
 
